@@ -14,4 +14,4 @@
 
 4. Standardized Text: The text values in the report_section and dimension columns were converted to lowercase and stripped of any extra whitespace to ensure consistency.
 
-*** Checked Duplicates: The dataset was checked for duplicate rows, and none were found.
+5. Checked Duplicates: The dataset was checked for duplicate rows, and none were found.
